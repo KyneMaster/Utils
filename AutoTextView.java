@@ -1,10 +1,3 @@
-package com.anche.kyne.sewagemonitorplatform_management_hunan.customview;
-
-import android.content.Context;
-import android.graphics.Paint;
-import android.text.TextUtils;
-import android.util.AttributeSet;
-import android.widget.TextView;
 
 /**
  * Created by Kyne on 2017/11/12.
